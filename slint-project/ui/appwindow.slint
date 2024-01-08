@@ -1,0 +1,25 @@
+import { Button, VerticalBox } from "std-widgets.slint";
+
+export struct Sample  {
+    name: string
+}
+export component AppWindow inherits Window {
+    in-out property<int> counter: 42;
+    callback request-increase-value();
+    callback <[Sample]> get-samples();
+
+    in property <[Sample]> samples: root.get-samples();
+    min-width: 600px;
+    min-height: 600px;
+    VerticalBox {
+        Text {
+            text: "Counter: \{root.counter}";
+        }
+        
+        for queue-item[idx] in root.get-samples():
+            Text {
+                text: "\{idx}: \{queue-item.name}";
+            }
+        
+    }
+}

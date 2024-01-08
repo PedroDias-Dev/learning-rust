@@ -1,0 +1,10 @@
+E:\Projetos\RUST\slint-test\target\debug\deps\libcss_color_parser2-a496aaa65bac83bb.rmeta: C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\css-color-parser2-1.0.1\src\lib.rs C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\css-color-parser2-1.0.1\src\color\mod.rs C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\css-color-parser2-1.0.1\src\color\color.rs C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\css-color-parser2-1.0.1\src\color\named_colors.rs
+
+E:\Projetos\RUST\slint-test\target\debug\deps\libcss_color_parser2-a496aaa65bac83bb.rlib: C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\css-color-parser2-1.0.1\src\lib.rs C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\css-color-parser2-1.0.1\src\color\mod.rs C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\css-color-parser2-1.0.1\src\color\color.rs C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\css-color-parser2-1.0.1\src\color\named_colors.rs
+
+E:\Projetos\RUST\slint-test\target\debug\deps\css_color_parser2-a496aaa65bac83bb.d: C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\css-color-parser2-1.0.1\src\lib.rs C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\css-color-parser2-1.0.1\src\color\mod.rs C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\css-color-parser2-1.0.1\src\color\color.rs C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\css-color-parser2-1.0.1\src\color\named_colors.rs
+
+C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\css-color-parser2-1.0.1\src\lib.rs:
+C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\css-color-parser2-1.0.1\src\color\mod.rs:
+C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\css-color-parser2-1.0.1\src\color\color.rs:
+C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\css-color-parser2-1.0.1\src\color\named_colors.rs:

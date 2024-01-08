@@ -1,0 +1,14 @@
+E:\Projetos\RUST\slint-test\target\debug\deps\libi_slint_backend_winit-5ef2060379acbb5d.rmeta: C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-backend-winit-1.3.2\lib.rs C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-backend-winit-1.3.2\winitwindowadapter.rs C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-backend-winit-1.3.2\event_loop.rs C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-backend-winit-1.3.2\renderer\femtovg.rs C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-backend-winit-1.3.2\renderer\femtovg\glcontext.rs C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-backend-winit-1.3.2\renderer\sw.rs C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-backend-winit-1.3.2\accesskit.rs C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-backend-winit-1.3.2\README.md
+
+E:\Projetos\RUST\slint-test\target\debug\deps\i_slint_backend_winit-5ef2060379acbb5d.d: C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-backend-winit-1.3.2\lib.rs C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-backend-winit-1.3.2\winitwindowadapter.rs C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-backend-winit-1.3.2\event_loop.rs C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-backend-winit-1.3.2\renderer\femtovg.rs C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-backend-winit-1.3.2\renderer\femtovg\glcontext.rs C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-backend-winit-1.3.2\renderer\sw.rs C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-backend-winit-1.3.2\accesskit.rs C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-backend-winit-1.3.2\README.md
+
+C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-backend-winit-1.3.2\lib.rs:
+C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-backend-winit-1.3.2\winitwindowadapter.rs:
+C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-backend-winit-1.3.2\event_loop.rs:
+C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-backend-winit-1.3.2\renderer\femtovg.rs:
+C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-backend-winit-1.3.2\renderer\femtovg\glcontext.rs:
+C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-backend-winit-1.3.2\renderer\sw.rs:
+C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-backend-winit-1.3.2\accesskit.rs:
+C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-backend-winit-1.3.2\README.md:
+
+# env-dep:CARGO_PKG_VERSION=1.3.2

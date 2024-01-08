@@ -1,0 +1,11 @@
+E:\Projetos\RUST\slint-test\target\debug\deps\libxmlparser-ffc96b8b7144a461.rmeta: C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xmlparser-0.13.6\src\lib.rs C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xmlparser-0.13.6\src\error.rs C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xmlparser-0.13.6\src\stream.rs C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xmlparser-0.13.6\src\strspan.rs C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xmlparser-0.13.6\src\xmlchar.rs
+
+E:\Projetos\RUST\slint-test\target\debug\deps\libxmlparser-ffc96b8b7144a461.rlib: C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xmlparser-0.13.6\src\lib.rs C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xmlparser-0.13.6\src\error.rs C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xmlparser-0.13.6\src\stream.rs C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xmlparser-0.13.6\src\strspan.rs C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xmlparser-0.13.6\src\xmlchar.rs
+
+E:\Projetos\RUST\slint-test\target\debug\deps\xmlparser-ffc96b8b7144a461.d: C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xmlparser-0.13.6\src\lib.rs C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xmlparser-0.13.6\src\error.rs C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xmlparser-0.13.6\src\stream.rs C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xmlparser-0.13.6\src\strspan.rs C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xmlparser-0.13.6\src\xmlchar.rs
+
+C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xmlparser-0.13.6\src\lib.rs:
+C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xmlparser-0.13.6\src\error.rs:
+C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xmlparser-0.13.6\src\stream.rs:
+C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xmlparser-0.13.6\src\strspan.rs:
+C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xmlparser-0.13.6\src\xmlchar.rs:

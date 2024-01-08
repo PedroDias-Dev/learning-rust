@@ -1,0 +1,11 @@
+E:\Projetos\RUST\slint-test\target\debug\deps\libi_slint_common-53d74f20fb735502.rmeta: C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-common-1.3.2\lib.rs C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-common-1.3.2\builtin_structs.rs C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-common-1.3.2\enums.rs C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-common-1.3.2\key_codes.rs C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-common-1.3.2\README.md
+
+E:\Projetos\RUST\slint-test\target\debug\deps\libi_slint_common-53d74f20fb735502.rlib: C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-common-1.3.2\lib.rs C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-common-1.3.2\builtin_structs.rs C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-common-1.3.2\enums.rs C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-common-1.3.2\key_codes.rs C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-common-1.3.2\README.md
+
+E:\Projetos\RUST\slint-test\target\debug\deps\i_slint_common-53d74f20fb735502.d: C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-common-1.3.2\lib.rs C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-common-1.3.2\builtin_structs.rs C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-common-1.3.2\enums.rs C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-common-1.3.2\key_codes.rs C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-common-1.3.2\README.md
+
+C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-common-1.3.2\lib.rs:
+C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-common-1.3.2\builtin_structs.rs:
+C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-common-1.3.2\enums.rs:
+C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-common-1.3.2\key_codes.rs:
+C:\Users\pedro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-common-1.3.2\README.md:
